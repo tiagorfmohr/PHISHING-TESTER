@@ -23,7 +23,7 @@ pip install -U scikit-learn
 
 virtualenv, flask, numpy, tensorflow, joblib, scikit-learn
 
-### Caso ocorra erros na instalação do tensorflow, abra o powershell como adminisrtador e execute:
+### Caso ocorra erros na instalação do tensorflow, abra o powershell como administrador e execute:
 
 ```bash
   New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" `
